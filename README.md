@@ -3,6 +3,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/solanomillo/TelecomX_Churn_ML/blob/main/TelecomX_ML_Churn.ipynb)
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/sklearn-latest-orange.svg)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 
 ### ▶️ Ejecución rápida en Google Colab
 1. Haz clic en el badge **Open in Colab** arriba.
@@ -95,7 +98,8 @@ El análisis de importancia de variables reveló los factores determinantes:
 ```text
 TelecomX_Churn_ML/
 │
-├── TelecomX_ML_Churn.ipynb   # Notebook principal
+├── TelecomX2_ML.ipynb   # Notebook principal
 ├── README.md                 # Documentación
 ├── LICENSE                   # Licencia del proyecto
 └── screenshots/              # Capturas de gráficos y resultados
+```
