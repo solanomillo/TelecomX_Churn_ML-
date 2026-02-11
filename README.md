@@ -103,3 +103,28 @@ TelecomX_Churn_ML/
 ├── LICENSE                   # Licencia del proyecto
 └── screenshots/              # Capturas de gráficos y resultados
 ```
+
+---
+
+## 👤 Autor
+
+**Julio Solano**  
+📊 Data Analyst | Machine Learning | Python 
+
+🔗 **LinkedIn:** [https://www.linkedin.com/in/julio-solano ](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BcERHn4ihQR%2Bh5IX1qxxQWw%3D%3D) 
+
+💻 **GitHub:** [https://github.com/juliosolano ](https://github.com/solanomillo/Challenge-TelecomX_LATAM/new/main?filename=README.md) 
+
+📍 Argentina
+
+---
+
+## 📜 Licencia
+
+Este proyecto se distribuye bajo la **Licencia MIT**.  
+Consulta el archivo [LICENSE](LICENSE) para más información.
+
+---
+
+⭐ Si este proyecto te resultó útil o interesante, no dudes en dejar una estrella en el repositorio.
+
