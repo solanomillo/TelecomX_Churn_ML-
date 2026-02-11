@@ -1,6 +1,6 @@
 # 📊 TelecomX LATAM – Predicción de Cancelación de Clientes (Churn Modeling)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/solanomillo/TelecomX_Churn_ML-/blob/main/TelecomX2_ML.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/solanomillo/TelecomX_Churn_ML-/blob/main/TelecomX2_ML.ipynb)
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/sklearn-latest-orange.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
